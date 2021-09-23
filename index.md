@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Lethbridge Data Science
 
-You can use the [editor on GitHub](https://github.com/LethDS/lethds.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Lethbridge Data Science group! We are a group of data scientists working together to learn and apply data science to projects in Lethbridge and beyond. We are an open and diverse community, with some individuals more adept at applying and coming up with great project ideas, while others are more interested in the nuts and bolts of building the latest machine learning algorithms. We belive that as a diverse groups we can build better projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to get in touch with us at lethbridgedatascience@gmail.com if you are interested in getting involved or if you think you've got a great idea for a data science project!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LethDS/lethds.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
