@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Mission of Lethbridge Data Science
+From bus routes, to landscape maps, to housing prices, data is being accumulated at an increasing rate. This presents an opportunity to use these data to tackle environmental and social challenges we face today. Similarly, it presents great opportunities for augmenting current business practices and developing completely new business models. This Lethbridge Data Science site’s goal is to help bring together the community of data scientists working in and around Lethbridge, and to help guide new comers interested in the world of data science. 
+  
+  
+#### Some current members:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Tyler Bonnell  
+Coordinator of Data Science   
+University of Lethbridge
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+David Logue  
+Chair of Psychology   
+University of Lethbridge  
 
-
-[jekyll-organization]: https://github.com/jekyll
